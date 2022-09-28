@@ -6,9 +6,9 @@ I am Currently a student of Altschoolafrica Software Engineer, track cloud engin
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) track cloud engineering Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and DevOps.
+- 🌱 I’m currently learning JavaScript, Java, Spring Boot and DevOps.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer(Java and Spring boot), or DevOps Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing victorsomtochukwu@gmail.com.
 
 ---
