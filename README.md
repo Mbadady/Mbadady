@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I am Currently a student of Altschoolafrica Software Engineer, track cloud engineering. I'm passionate about sharing knowledge, and contributing to Open source projects. I am open to for internships or junior role in Backend or cloud Engineering
+I am Currently a student of Altschoolafrica Software Engineer, track cloud engineering. I'm passionate about sharing knowledge, and contributing to Open source projects. I am open to internships or junior role in Backend(Java) or cloud Engineering
 
 **Here's a quick summary about me**:
 
