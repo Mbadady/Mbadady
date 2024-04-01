@@ -6,8 +6,8 @@ I am a graduate of Altschoolafrica Software Engineer, track cloud engineering. I
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I am a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) track cloud engineering Class of 2022.
-- 🌱 I’m currently learning C# and .Net, Java and Spring Boot and Cloud Engineering.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I currently work as a C# and .Net developer.
+- 😊 I’m looking for help with open source projects, hackathon opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer(Java and Spring boot or C# and .Net), or Cloud Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing victorsomtochukwu@gmail.com.
 
