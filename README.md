@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I am a graduate of Altschoolafrica Software Engineer, track cloud engineering. I'm passionate about sharing knowledge, and contributing to Open source projects. I am open to role in Backend(Java, C#) or cloud Engineering
+I am a graduate of Altschoolafrica Software Engineer, track cloud engineering. I'm passionate about sharing knowledge, and contributing to Open source projects. I am open to role as a backend developer (Java and springboot, C# and .Net)
 
 **Here's a quick summary about me**:
 
